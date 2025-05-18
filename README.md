@@ -37,13 +37,13 @@ To run this project locally on your machine:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/react-todo-list-localstorage.git
+   git clone https://github.com/Bilal-Ikram/ToDo-List-App.git
    ```
 
 2. **Navigate to the project directory**:
 
    ```bash
-   cd react-todo-list-localstorage
+   cd TODO LIST
    ```
 
 3. **Install dependencies**:
@@ -87,7 +87,7 @@ A simple **React** to-do list app that uses **localStorage** to persist tasks be
 1. Clone the repository:
 ```
 
-git clone [https://github.com/yourusername/react-todo-list-localstorage.git](https://github.com/yourusername/react-todo-list-localstorage.git)
+git clone [https://github.com/yourusername/react-todo-list-localstorage.git](git clone https://github.com/Bilal-Ikram/ToDo-List-App.git)
 
 ```
 
