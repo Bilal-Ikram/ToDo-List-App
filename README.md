@@ -1,6 +1,4 @@
-Here's a simple **description** of what a **GitHub repository** for a **React local storage todo list** might look like:
 
----
 https://inspiring-puppy-32f78c.netlify.app/
 
 
